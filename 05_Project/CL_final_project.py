@@ -277,7 +277,7 @@ if __name__ == "__main__":
     # Aura queries use an encrypted connection using the "neo4j+s" URI scheme
     uri = "neo4j+s://b91d9d7b.databases.neo4j.io"
     user = "neo4j"
-    password = "LIZpl5174Wiz57VVHa6hcXNKxfB7brAjZ7SJn7J178k"
+    password = "password"
     app = App(uri, user, password)
     _query_= Get_Queries
     sentence = input("Please enter command to be converted into Cypher Query ")
