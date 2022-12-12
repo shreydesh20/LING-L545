@@ -1,0 +1,14 @@
+# sent_id 1
+# text = Once upon a time there was a dear little girl who was loved by every one who looked at her, but most of all by her grandmother, and there was nothing that she would not have given to the child. Once she gave her a little cap of red velvet, which suited her so well that she would never wear anything else. So she was always called Little Red Riding Hood.
+      Form LEMMA MISC UPOS XPOS FEATS HEAD DEPREL DEPS
+0     Once     -    -    -    -     -    -      -    -
+1     upon     -    -    -    -     -    -      -    -
+2        a     -    -    -    -     -    -      -    -
+3     time     -    -    -    -     -    -      -    -
+4    there     -    -    -    -     -    -      -    -
+..     ...   ...  ...  ...  ...   ...  ...    ...  ...
+69  called     -    -    -    -     -    -      -    -
+70  Little     -    -    -    -     -    -      -    -
+71     Red     -    -    -    -     -    -      -    -
+72  Riding     -    -    -    -     -    -      -    -
+73   Hood.     -    -    -    -     -    -      -    -
